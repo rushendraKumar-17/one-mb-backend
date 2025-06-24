@@ -1,0 +1,24 @@
+GET http://localhost:8001/tpa
+
+
+
+###
+GET http://localhost:8001/health-insurer
+
+
+###
+POST http://localhost:8001/get-tpa
+Content-Type: application/json
+
+{
+    "id":"1"
+}
+
+
+###
+POST http://localhost:8001/hospital
+Content-Type: application/json
+
+{
+    "id":"1"
+}

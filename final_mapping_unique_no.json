@@ -1,0 +1,2339 @@
+[
+  {
+    "name": "New India Assurance",
+    "insurer_type": "Public",
+    "contact": {
+      "website": "newindia.co.in",
+      "phone": "022-22624987",
+      "email": "cmd.nia@newindia.co.in"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "licence": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "23"
+  },
+  {
+    "name": "The Oriental Insurance",
+    "insurer_type": "Public",
+    "contact": {
+      "website": "orientalinsurance.co.in",
+      "phone": "011-43659595",
+      "email": "rashmibajpai@orientalinsurance.co.in"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "24"
+  },
+  {
+    "name": "National Insurance",
+    "insurer_type": "Public",
+    "contact": {
+      "website": "nationalinsurance.nic.co.in",
+      "phone": "033-22831704",
+      "email": "cmd@nic.co.in"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "15"
+  },
+  {
+    "name": "United India Insurance",
+    "insurer_type": "Public",
+    "contact": {
+      "website": "uiic.co.in",
+      "phone": "044-28575200",
+      "email": "bsrahul@uiic.co.in"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "25"
+  },
+  {
+    "name": "Acko General Insurance Ltd.",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "acko.com",
+      "email": "animesh@acko.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "1"
+  },
+  {
+    "name": "Aditya Birla Health Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "adityabirlacapital.com",
+      "phone": "022-66257602",
+      "email": "mayank.bathwal@adityabirla.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "22"
+  },
+  {
+    "name": "Bajaj Allianz General Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "bajajallianz.com",
+      "phone": "020-66026615",
+      "email": "tapan.singhel@bajajallianz.co.in"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "3"
+  },
+  {
+    "name": "Care Health Insurance Ltd. (Religare)",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "careinsurance.com",
+      "phone": "0124-6141888",
+      "email": "anuj.gulati@careinsurance.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ]
+  },
+  {
+    "name": "Cholamandalam MS General Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "cholams.murugappa.com",
+      "phone": "044-30445406",
+      "email": "suryanarayananV@cholams.murugappa.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "4"
+  },
+  {
+    "name": "Future Generali India Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "futuregenerali.in",
+      "phone": "022-40976828",
+      "email": "anup@futuregenerali.in"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "6"
+  },
+  {
+    "name": "Galaxy Health Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "galaxyhealth.com",
+      "phone": "044-40017227",
+      "email": "mdceo@galaxyhealth.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "13"
+  },
+  {
+    "name": "Go Digit General Insurance Ltd.",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "godigit.com",
+      "phone": "020-67495420",
+      "email": "jasleen.kohli@godigit.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "7"
+  },
+  {
+    "name": "HDFC ERGO General Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "hdfcergo.com",
+      "phone": "022-66383666",
+      "email": "anuj.tyagi@hdfcergo.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "8"
+  },
+  {
+    "name": "ICICI Lombard General Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "icicilombard.com",
+      "phone": "022-61961112",
+      "email": "sanjeev.mantri@icicilombard.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "9"
+  },
+  {
+    "name": "IFFCO Tokio General Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "iffcotokio.co.in",
+      "phone": "0124-2577900",
+      "email": "subratam@iffcotokio.co.in"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "10"
+  },
+  {
+    "name": "Navi General Insurance Ltd.",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "navi.com",
+      "email": "vaibhav.goyal@navi.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "16"
+  },
+  {
+    "name": "Niva Bupa Health Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "nivabupa.com",
+      "phone": "+91-11-30902000",
+      "email": "Krishnan.Ramachandran@maxbupa.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "16"
+  },
+  {
+    "name": "Raheja QBE General Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "rahejaqbe.com",
+      "email": "rajeev.dogra@rahejaqbe.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "17"
+  },
+  {
+    "name": "Reliance General Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "reliancegeneral.co.in",
+      "phone": "022-33034171",
+      "email": "rakesh.jain@relianceada.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "18"
+  },
+  {
+    "name": "Royal Sundaram General Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "royalsundaram.in",
+      "email": "md@royalsundaram.in"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "19"
+  },
+  {
+    "name": "SBI General Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "sbigeneral.in",
+      "phone": "022-42412200",
+      "email": "naveen.jha@sbigeneral.in"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "20"
+  },
+  {
+    "name": "Shriram General Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "shriramgi.com",
+      "phone": "0141-3928451",
+      "email": "anil.aggarwal@shriramgi.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "21"
+  },
+  {
+    "name": "Star Health & Allied Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "starhealth.in",
+      "phone": "044-47886700",
+      "email": "anand.roy@starhealth.in"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "22"
+  },
+  {
+    "name": "Tata AIG General Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "tataaig.com",
+      "phone": "022-66933701",
+      "email": "amit.Gaonrkar@tata-aig.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "22"
+  },
+  {
+    "name": "Universal Sompo General Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "universalsompo.com",
+      "phone": "1800-224030",
+      "email": "sharad.mathur@universalsompo.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "26"
+  },
+  {
+    "name": "Zurich Kotak General Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "zurichkotak.com",
+      "email": "alok.agarwal@zurichkotak.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "1"
+  },
+  {
+    "name": "ManipalCigna Health Insurance",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "manipalcigna.com",
+      "phone": "022-61703600",
+      "email": "Joydeep.saha@manipalcigna.com"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "4"
+  },
+  {
+    "name": "Narayana Health Insurance Ltd.",
+    "insurer_type": "Private",
+    "contact": {
+      "website": "narayanahealth.insurance",
+      "phone": "9821034071",
+      "email": "support@narayanahealth.insurance"
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Raksha Health Insurance TPA Pvt Ltd",
+        "license": "No.015"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Volo Health Insurance TPA Pvt Ltd (East West Assist)",
+        "no": "7",
+        "license": "No.018"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      }
+    ],
+    "no": "15"
+  }
+]
