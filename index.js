@@ -9,6 +9,9 @@ const app = express();
 connectDb()
 app.use(express.json());
 app.use(cors())
+app.get("/",(req,res)=>{
+    res.send("Server is running")
+})
 app.get("/tpa", async(req, res) => {
     const data = await Tpa.find({});
     return res.json(data);
