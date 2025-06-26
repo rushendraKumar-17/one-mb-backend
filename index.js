@@ -39,9 +39,9 @@ app.post('/hospital', async(req, res) => {
     const dataToSend = hospitals.map((item) => {
       return {
         no: item.no,
-        name: item.HospitalName,
-        address: item.Address,
-        contact: item.Contact,
+        HospitalName: item.HospitalName,
+        Address: item.Address,
+        Contact: item.Contact,
         
         Latitude: item.Latitude,
         Longitude: item.Longitude,
