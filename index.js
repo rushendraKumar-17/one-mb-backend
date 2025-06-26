@@ -43,8 +43,8 @@ app.post('/hospital', async(req, res) => {
         address: item.Address,
         contact: item.Contact,
         
-        latitude: item.Latitude,
-        longitude: item.Longitude,
+        Latitude: item.Latitude,
+        Longitude: item.Longitude,
       };
     })
     return res.json(dataToSend);
