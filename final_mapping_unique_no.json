@@ -2289,10 +2289,7 @@
         "no": "5",
         "license": "No.013"
       },
-      {
-        "name": "Raksha Health Insurance TPA Pvt Ltd",
-        "license": "No.015"
-      },
+
       {
         "name": "Vidal Health Insurance TPA Pvt Ltd",
         "no": "6",
@@ -2335,5 +2332,88 @@
       }
     ],
     "no": "15"
+  },
+  {
+    "name": "Kotak Mahindra Life Insurance Company Limited",
+    "insurer_type": "Public",
+    "contact": {
+      "website": "www.kotaklife.com",
+      "phone": "022-66057652",
+      "email": ""
+    },
+    "TPAs": [
+      {
+        "name": "Medi Assist Insurance TPA Pvt Ltd",
+        "no": "1",
+        "license": "No.003"
+      },
+      {
+        "name": "MDIndia Health Insurance TPA Pvt Ltd",
+        "no": "2",
+        "license": "No.005"
+      },
+      {
+        "name": "Paramount Health Services & Insurance TPA Pvt Ltd",
+        "no": "3",
+        "license": "No.006"
+      },
+      {
+        "name": "Family Health Plan Insurance TPA Ltd",
+        "no": "5",
+        "license": "No.013"
+      },
+      {
+        "name": "Ericson Insurance TPA Pvt Ltd",
+        "no": "14",
+        "license": "No.035"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      },
+      {
+        "name": "Medsave Health Insurance TPA Ltd",
+        "no": "8",
+        "license": "No.019"
+      },
+      {
+        "name": "Vidal Health Insurance TPA Pvt Ltd",
+        "no": "6",
+        "license": "No.016"
+      },
+      {
+        "name": "Genins India Insurance TPA Ltd",
+        "no": "9",
+        "license": "No.020"
+      },
+      {
+        "name": "Heritage Health Insurance TPA Pvt Ltd",
+        "no": "4",
+        "license": "No.008"
+      },
+      {
+        "name": "Good Health Insurance TPA Ltd",
+        "no": "11",
+        "license": "No.023"
+      },
+
+      {
+        "name": "Safeway Insurance TPA Pvt Ltd",
+        "no": "13",
+        "license": "No.026"
+      },
+      {
+        "name": "Park Mediclaim Insurance TPA Pvt Ltd",
+        "no": "12",
+        "license": "No.025"
+      },
+      {
+        "name": "Health India Insurance TPA Services Pvt Ltd",
+        "no": "10",
+        "license": "No.022"
+      }
+    ],
+    "no": "27"
   }
 ]

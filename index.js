@@ -5,6 +5,7 @@ import connectDb from './config/connectDb.js';
 import Insurance from './models/insurance.model.js';
 import Mapping from './models/mapping.model.js';
 import Hospital from './models/hospital.model.js';
+import hospitalMapping from './models/hospital-mapping.model.js';
 const app = express();
 connectDb()
 app.use(express.json());
@@ -33,18 +34,18 @@ app.post("/get-tpa", async(req, res) => {
 app.post('/hospital', async(req, res) => {
     const {id} = req.body;
     console.log(id)
-    const data = await Hospital.find({ TPA: id })
-    const dataToSend = data.map((item) => {
-        return {
-            HospitalName: item.HospitalName,
-            Address: item.Address,
-            
-            Contact: item.Contact,
-          
-            Latitude: item.Latitude,
-            Longitude: item.Longitude,
-            no: item.no
-        }
+    const data = await hospitalMapping.findOne({ no: id })
+    const hospitals = data.hospitals;
+    const dataToSend = hospitals.map((item) => {
+      return {
+        no: item.no,
+        name: item.HospitalName,
+        address: item.Address,
+        contact: item.Contact,
+        
+        latitude: item.Latitude,
+        longitude: item.Longitude,
+      };
     })
     return res.json(dataToSend);
 })
